@@ -20,3 +20,5 @@ data/*.csv
 # OS files
 Thumbs.db
 .DS_Store
+
+# ecommerce-data-engineering-pipeline
